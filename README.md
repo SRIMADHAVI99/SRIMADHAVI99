@@ -169,52 +169,12 @@ A project focused on AI-powered road damage detection and infrastructure monitor
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SRIMADHAVI99&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIMADHAVI99&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SRIMADHAVI99&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=SRIMADHAVI99&hide_border=true"
     alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=SRIMADHAVI99&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1"
-    alt="GitHub Profile Trophies"
   />
 </p>
 
