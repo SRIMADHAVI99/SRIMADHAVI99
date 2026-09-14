@@ -172,21 +172,17 @@ A project focused on AI-powered road damage detection and infrastructure monitor
 # 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/SRIMADHAVI99">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=SRIMADHAVI99&show_icons=true&include_all_commits=true&hide_border=true"
-      height="180"
-      alt="GitHub Statistics"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SRIMADHAVI99&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
+    height="180"
+    alt="GitHub Statistics"
+  />
 
-  <a href="https://github.com/SRIMADHAVI99">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIMADHAVI99&layout=compact&langs_count=8&hide_border=true"
-      height="180"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIMADHAVI99&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -195,7 +191,7 @@ A project focused on AI-powered road damage detection and infrastructure monitor
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SRIMADHAVI99&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SRIMADHAVI99&theme=github-compact&hide_border=true&area=true"
     alt="GitHub Contribution Activity Graph"
   />
 </p>
